@@ -1,0 +1,5 @@
+{"tasks":[
+  {"id":"t1","title":"Document worker retry behavior","owner":"Ava","depends_on":[],"evidence":[{"line":2,"quote":"Ava will document the retry behavior for the worker."}]},
+  {"id":"t2","title":"Test restart recovery","owner":"Noah","depends_on":["t1"],"evidence":[{"line":3,"quote":"Noah will test restart recovery after Ava finishes the retry document."}]},
+  {"id":"t3","title":"Prepare release notes","owner":"Mina","depends_on":["t2"],"evidence":[{"line":4,"quote":"Mina will prepare release notes after Noah finishes restart testing."}]}
+]}

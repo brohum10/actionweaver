@@ -1,0 +1,5 @@
+Release planning — fictional sample, no customer data.
+Ava will document the retry behavior for the worker.
+Noah will test restart recovery after Ava finishes the retry document.
+Mina will prepare release notes after Noah finishes restart testing.
+The group discussed a dashboard but did not commit to building one.
